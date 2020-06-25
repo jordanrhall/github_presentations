@@ -1,6 +1,6 @@
 # github_presentations
 
-Where we will show off git
+Where we will show off git in lala land
 
 Multiple sub-goals we want to show to the group today:
 * showing a commit briefly
